@@ -1,0 +1,9 @@
+com\example\application\dto\LoanOfferDTO.class
+com\example\application\SwaggerConfig.class
+com\example\application\Application.class
+com\example\application\clients\FeignDeal.class
+com\example\application\myExceptions\ConnectionException.class
+com\example\application\dto\LoanApplicationRequestDTO.class
+com\example\application\controllers\MainController.class
+com\example\application\myExceptions\ScoringException.class
+com\example\application\services\ApplicationService.class

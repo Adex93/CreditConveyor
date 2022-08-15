@@ -1,0 +1,9 @@
+C:\Neoflex\CreditConveyor\application\src\main\java\com\example\application\Application.java
+C:\Neoflex\CreditConveyor\application\src\main\java\com\example\application\SwaggerConfig.java
+C:\Neoflex\CreditConveyor\application\src\main\java\com\example\application\services\ApplicationService.java
+C:\Neoflex\CreditConveyor\application\src\main\java\com\example\application\dto\LoanApplicationRequestDTO.java
+C:\Neoflex\CreditConveyor\application\src\main\java\com\example\application\myExceptions\ScoringException.java
+C:\Neoflex\CreditConveyor\application\src\main\java\com\example\application\dto\LoanOfferDTO.java
+C:\Neoflex\CreditConveyor\application\src\main\java\com\example\application\myExceptions\ConnectionException.java
+C:\Neoflex\CreditConveyor\application\src\main\java\com\example\application\controllers\MainController.java
+C:\Neoflex\CreditConveyor\application\src\main\java\com\example\application\clients\FeignDeal.java

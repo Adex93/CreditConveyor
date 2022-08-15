@@ -1,0 +1,6 @@
+com\example\conveyor\offers\CalculatorOffersTest.class
+com\example\conveyor\calculation\CalculatorCreditTest.class
+com\example\conveyor\controllers\MainControllerTest.class
+com\example\conveyor\ConveyorApplicationTests.class
+com\example\conveyor\calculation\ScoringServiceTest.class
+com\example\conveyor\offers\OffersServiceTest.class

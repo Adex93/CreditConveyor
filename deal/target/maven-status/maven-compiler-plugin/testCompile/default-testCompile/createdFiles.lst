@@ -1,0 +1,5 @@
+com\example\deal\controllers\MainControllerTest.class
+com\example\deal\DealApplicationTests.class
+com\example\deal\services\OfferServiceTest.class
+com\example\deal\services\ApplicationServiceTest.class
+com\example\deal\services\CalculateServiceTest.class
